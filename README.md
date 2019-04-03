@@ -1,5 +1,4 @@
 # Learning Labs Issues
-Also for testing Spark integration
 
 **IMPORTANT**:  This is a public repository. _Do not include proprietary or confidential information in this repository._
 
